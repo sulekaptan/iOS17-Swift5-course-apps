@@ -3,6 +3,15 @@ My applications from the course I took on Udemy. Course link is [here](https://w
 ### 1st App
 The goal of this UIKit-created application was to comprehend the <b>protocol oriented programming</b> framework. <br/>
 <p>
-   <img src="assets/pop-1.png" width="250" />
-   <img src="assets/pop-2.png" width="250" />
+   <img src="assets/pop-1.png" width="200" />
+   <img src="assets/pop-2.png" width="200" />
+</p>
+
+### 2nd App
+The goal of  application was to comprehend the <b>core data</b> and ids. <br/>
+<p>
+   <img src="assets/art-1.png" width="200" />
+   <img src="assets/art-2.png" width="200" />
+   <img src="assets/art-3.png" width="200" />
+   <img src="assets/art-4.png" width="200" />
 </p>
