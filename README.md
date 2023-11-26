@@ -24,3 +24,10 @@ The goal of  application was to using <b>maps</b>. <br/>
    <img src="assets/travel-3.png" width="200" />
    <img src="assets/travel-4.png" width="200" />
 </p>
+
+### 4th App
+The goal of  application was to using <b>API</b> and <b>URLSession</b>. An application that fetches currency values ​​using API. <br/>
+<p>
+   <img src="assets/currency-converter-1.png" width="200" />
+   <img src="assets/currency-converter-2.png" width="200" />
+</p>
