@@ -41,3 +41,11 @@ The goal of  application was to using <b>Firebase (Authentication, Storage, Fire
    <img src="assets/intsagram-4.png" width="200" />
 </p>
 
+### 6th App
+The goal of  application was to using <b>Machine Learning</b>, <b>CoreML</b>, <b>Vision</b>. It predicts what the object in the picture is using open source machine learning models.<br/>
+<p>
+   <img src="assets/ml-1.png" width="200" />
+   <img src="assets/ml-2.png" width="200" />
+   <img src="assets/ml-3.png" width="200" />
+   <img src="assets/ml-4.png" width="200" />
+</p>
