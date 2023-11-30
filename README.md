@@ -53,6 +53,6 @@ The goal of  application was to using <b>Machine Learning</b>, <b>CoreML</b>, <b
 ### 7th App
 The goal of  application was to using <b>Sprite Kit</b>.<br/>
 <p>
-   <img src="assets/angry-1.png" height="250" />
-   <img src="assets/angry-2.png" height="250" />
+   <img src="assets/angry-1.png" height="220" />
+   <img src="assets/angry-2.png" height="220" />
 </p>
