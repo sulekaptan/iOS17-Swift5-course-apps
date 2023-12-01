@@ -56,3 +56,11 @@ The goal of  application was to using <b>Sprite Kit</b>.<br/>
    <img src="assets/angry-1.png" height="220" />
    <img src="assets/angry-2.png" height="220" />
 </p>
+
+### 8th App
+The goal of this app's to learn fundamentals of <b>SwiftUI</b>.<br/>
+<p>
+   <img src="assets/favorite-1.png" width="200" />
+   <img src="assets/favorite-2.png" width="200" />
+   <img src="assets/favorite-3.png" width="200" />
+</p>
