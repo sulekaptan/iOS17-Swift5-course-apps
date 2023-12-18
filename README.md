@@ -86,5 +86,13 @@ The goal of this app's was to using <b>MVVM Architecture</b> and <b>RxSwift</b>.
 The goal of this app's to learn fundamentals of <b>VIPER</b>.<br/>
 <p>
    <img src="assets/crypto-viper-1.png" width="200" />
-    <img src="assets/crypto-viper-2.png" width="200" />
+   <img src="assets/crypto-viper-2.png" width="200" />
+</p>
+
+### 12th App
+The goal of this app's was to using <b>WidgetKit</b> and <b>AppStorage</b> (Images not uploading because no apple developer acc).<br/> 
+<p>
+   <img src="assets/widget-1.png" width="200" />
+   <img src="assets/widget-2.png" width="200" />
+   <img src="assets/widget-3.png" width="200" />
 </p>
