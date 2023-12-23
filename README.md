@@ -96,3 +96,9 @@ The goal of this app's was to using <b>WidgetKit</b> and <b>AppStorage</b> (Imag
    <img src="assets/widget-2.png" width="200" />
    <img src="assets/widget-3.png" width="200" />
 </p>
+
+### 13th App
+The goal of this app's to learn fundamentals of <b>Threading</b> and was to using <b>Observable Object</b>, <b>Service</b>, <b>Async Await</b>, <b>Continuation</b> and <b>Actors</b>.<br/> 
+<p>
+   <img src="assets/crypto-swiftui.png" width="200" />
+</p>
